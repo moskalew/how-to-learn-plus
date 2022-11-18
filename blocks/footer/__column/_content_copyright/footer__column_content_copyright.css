@@ -1,0 +1,13 @@
+.footer__column_content_copyright {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.footer__column_content_copyright:last-child {
+  flex-direction: row;
+  justify-content: end;
+}

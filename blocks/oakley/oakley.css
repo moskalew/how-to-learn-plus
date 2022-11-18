@@ -1,0 +1,9 @@
+.oakley {
+  display: flex;
+  background-color: #f2f2f2;
+  margin-top: -60px;
+  padding-top: 160px;
+  font-family: 'Inter';
+  justify-content: space-between;
+  width: 100%;
+}

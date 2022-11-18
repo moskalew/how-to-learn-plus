@@ -1,0 +1,7 @@
+.description {
+  display: flex;
+  margin: 100px auto;
+  width: 80%;
+  font-family: 'Inter';
+  justify-content: space-between;
+}
