@@ -2,9 +2,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 900px;
+  height: 740px;
   position: relative;
-  margin: auto;
+  padding-top: 100px;
   width: 100%;
   background-color: #f2f2f2;
 }
