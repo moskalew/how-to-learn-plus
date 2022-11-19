@@ -70,10 +70,10 @@
 @import url(../blocks/link/link.css);
 
 @import url(../blocks/video/video.css);
-@import url(../blocks/video/video__iframes/video__iframes.css);
-@import url(../blocks/video/video__iframe/video__iframe.css);
-@import url(../blocks/video/video__title/video__title.css);
-@import url(../blocks/video/video__subtitle/video__subtitle.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/__subtitle/video__subtitle.css);
 
 @import url(../blocks/oakley/oakley.css);
 
