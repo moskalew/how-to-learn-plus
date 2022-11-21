@@ -3,10 +3,5 @@
   bottom: 0;
   right: 0;
   width: 765px;
-  height: 568px;
   z-index: 1;
-  background-image: url('../../../images/header-image.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: right;
 }

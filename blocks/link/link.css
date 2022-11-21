@@ -1,8 +1,8 @@
 .link {
   text-decoration: none;
-  transition: opasity 0.5s;
+  transition: opasity 0.5;
   color: #2f80ed;
-  font-family: 'Inter';
+  font-family: 'Inter' Arial, Helvetica, sans-serif;
 }
 
 .link:hover {

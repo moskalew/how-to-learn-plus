@@ -1,9 +1,8 @@
-.section-title_theme_dark {
+.section-title {
   width: 60%;
+  margin: 0 auto 20px;
   text-align: center;
-  margin: 0 auto;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
-  z-index: 2;
 }

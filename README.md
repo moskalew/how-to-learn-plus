@@ -1,3 +1,5 @@
-https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf
+"Научиться учиться"
 
-https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf
+Проеккт содержит информационные материалы о современных и эффективных подходах к обучению.
+
+Построен на базовых технологиях веб программирования: языке разметки HTML (от англ. HyperText Markup Language — «язык гипертекстовой разметки») и стилизации элементов CSS (англ. Cascading Style Sheets «каскадные таблицы стилей»).
